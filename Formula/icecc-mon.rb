@@ -1,5 +1,5 @@
 class IceccMon < Formula
-  desc "A lightweight TUI monitor for icecc distributed compilation"
+  desc "Lightweight TUI monitor for icecc distributed compilation"
   homepage "https://github.com/timblechmann/icecc-mon-rs"
   url "https://github.com/timblechmann/icecc-mon-rs/archive/refs/tags/v0.1.6.tar.gz"
   sha256 "207c9d4e5ef5bb8b418a3abd06bb3992347af4ae61595da89a2b219702ed2562"
