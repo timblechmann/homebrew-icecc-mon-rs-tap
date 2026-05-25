@@ -1,8 +1,8 @@
 class IceccMon < Formula
   desc "A lightweight TUI monitor for icecc distributed compilation"
   homepage "https://github.com/timblechmann/icecc-mon-rs"
-  url "https://github.com/timblechmann/icecc-mon-rs/archive/refs/tags/v0.1.2.tar.gz"
-  sha256 "00312cab2204bebc1dd159b37c35563a6c5e952df0986c5cef37982d075860c4"
+  url "https://github.com/timblechmann/icecc-mon-rs/archive/refs/tags/v0.1.3.tar.gz"
+  sha256 "ca2b6b2d38495bdbe96069dd33c2d867c44a1572adc7aaac04de9134af113b9a"
   license "GPL-2.0-only"
 
   depends_on "rust" => :build
